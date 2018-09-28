@@ -1,0 +1,8 @@
+"visid";"code";"name"
+1;"UN";"Unknown"
+2;"VP";"Very poor - Less than 1 km"
+3;"PO";"Poor - Between 1-4 km"
+4;"MO";"Moderate - Between 4-10 km"
+5;"GO";"Good - Between 10-20 km"
+6;"VG";"Very good - Between 20-40 km"
+7;"EX";"Excellent - More than 40 km"
